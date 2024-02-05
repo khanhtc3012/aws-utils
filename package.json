@@ -1,0 +1,20 @@
+{
+  "name": "aws-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "aws-utils": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-rum": "^3.496.0",
+    "xlsx": "^0.18.5"
+  }
+}
